@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, welcome on my GitHub PAge
+### Bonjour et bienvenue sur ma page GitHub
 
 <!--
 **defrance/defrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
