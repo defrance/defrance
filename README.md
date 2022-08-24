@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Je m'appelle Charlène, Je suis développeuse full-stack indépendante depuis 2009 🚀</div>  
+### <div align="center">Bonjour et bienvenue, je m'appelle Charlène
+ Je suis développeuse full-stack indépendante depuis 2009 🚀</div>  
   
 
 - 🔭 Ma principale activité se situe sur [Dolibarr](https://github.com/dolibarr)  
