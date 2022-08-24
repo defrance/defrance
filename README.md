@@ -4,18 +4,15 @@
 
 - 🔭 Ma principale activité se situe sur [Dolibarr](https://github.com/dolibarr)  
   
-
-- 🌱 Je m'intéresse à la Data et particulièrement autour d'open-search  
+- 🌱 Je m'intéresse à la Data et particulièrement autour d'openSearch et elastikSearch
   
-
-- 🎛️ Je sais mettre en place une architecture de développement autour de Docker, GitEA et Drone CI  
+- 🎛️ J'aime aussi industrialiser des environnements de développement autour de Docker, GitEA et Drone CI  
   
-
 - ⚡ Mes langages de programmation favoris sont le Php, jQuery/Bootstrap et Python  
   
 <br/>  
 
-## My Skill Set  
+## Mes compétences
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
