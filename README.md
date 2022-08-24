@@ -1,5 +1,5 @@
-### <div align="center">Bonjour et bienvenue, je m'appelle Charlène
- Je suis développeuse full-stack indépendante depuis 2009 🚀</div>  
+### <div align="center">Bonjour et bienvenue, je m'appelle Charlène </div>
+### <div align="center">Je suis développeuse full-stack indépendante depuis 2009 🚀</div>  
   
 
 - 🔭 Ma principale activité se situe sur [Dolibarr](https://github.com/dolibarr)  
@@ -13,14 +13,10 @@
 
 - ⚡ Mes langages de programmation favoris sont le Php, jQuery/Bootstrap et Python  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -35,7 +31,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
