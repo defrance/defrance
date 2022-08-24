@@ -1,4 +1,4 @@
-### Hi there, welcome on my GitHub PAge
+## Hi there, welcome on my GitHub Page
 ### Bonjour et bienvenue sur ma page GitHub
 
 <!--
