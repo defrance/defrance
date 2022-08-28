@@ -2,8 +2,7 @@
 ### <div align="center">Je suis développeuse full-stack indépendante depuis 2009 🚀</div>  
   
 
-- 🔭 Ma principale activité se situe autour de l'écosystème de <img class="toplogo" width="130" height="36" src="/medias/image/www.dolibarr.org/images/dolibarr_logo_white.svg" alt="ERP et CRM Open Source | Suite Web logicielle Dolibarr pour la gestion d'entreprise">
-- [Dolibarr](https://github.com/dolibarr)  
+- 🔭 Ma principale activité se situe autour de l'écosystème de https://github.com/Dolibarr/dolibarr-foundation/blob/develop/logo-cliparts/dolibarr_logo.jpg
   
 - 🌱 Je m'intéresse à la Data et particulièrement autour d'openSearch et elastikSearch
   
