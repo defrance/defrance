@@ -25,8 +25,9 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> 
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-</div>
+<a href="https://www.dolibarr.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/877491?s=200&v=4" alt="Dolibarr ERP/CRM" height="50" /></a>  
 
+</div>
 </td><td valign="top" width="33%">
 
 
