@@ -2,7 +2,7 @@
 ### <div align="center">Je suis développeuse full-stack indépendante depuis 2009 🚀</div>  
   
 
-- 🔭 Ma principale activité se situe autour de l'écosystème de <a href="https://www.dolibarr.org/?lang=fr&l=fr" target="_blank"><img style="margin: 10px" src="https://github.com/Dolibarr/dolibarr-foundation/blob/develop/logo-cliparts/dolibarr_logo.jpg" alt="Dolibarr" height="50" /></a>  
+- 🔭 Ma principale activité se situe autour de l'écosystème <a href="https://www.dolibarr.org/?lang=fr&l=fr" target="_blank"><img style="margin: 10px" src="https://github.com/Dolibarr/dolibarr-foundation/blob/develop/logo-cliparts/dolibarr_logo.jpg" alt="Dolibarr" height="50" /></a>  
   
 - 🌱 Je m'intéresse à la Data et particulièrement autour d'openSearch et elastikSearch
   
