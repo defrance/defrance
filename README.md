@@ -6,7 +6,7 @@
   
 - 🌱 Je m'intéresse à la Data et particulièrement autour d'openSearch et elastikSearch
   
-- 🎛️ J'aime aussi industrialiser des environnements de développement autour de Docker, GitEA et Drone CI  
+- 🎛️ J'aime aussi industrialiser des environnements de développement autour de Docker, GitEA et Jenkins
   
 - ⚡ Mes langages de programmation favoris sont le Php, jQuery/Bootstrap et Python  
   
