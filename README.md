@@ -8,7 +8,7 @@
   
 - 🎛️ J'aime aussi industrialiser des environnements de développement autour de Docker, GitEA et Jenkins
   
-- ⚡ Mes langages de programmation favoris sont le Php, jQuery/Bootstrap et Python  
+- ⚡ Mes langages de programmation favoris sont le Php, jQuery/Bootstrap, React-Native et Python  
   
 <br/>  
 
