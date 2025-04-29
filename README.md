@@ -65,7 +65,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=defrance&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=defrance&show_icons=true&locale=en" alt="defrance" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defrance&" alt="defrance" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=defrance" alt="defrance" />
 
 <br/>  
 
