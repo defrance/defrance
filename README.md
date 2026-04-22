@@ -1,4 +1,3 @@
-<h1 align="center">Charlène Benke - The Patas-Monkey</h1>
 <p align="center">
   <strong>Freelance Full-Stack Developer</strong><br />
   <strong>Développeuse Full-Stack Indépendante</strong>
