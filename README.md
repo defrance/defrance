@@ -1,8 +1,11 @@
-### <div align="center">Bonjour et bienvenue, je m'appelle Charlène Benke (defrance)</div>
+### <div align="center">Hello and welcome, my name is Charlene Benke  (aka defrance)</div>
+#### <div align="center">Bonjour et bienvenue, je m'appelle Charlène Benke (aka defrance)</div>
+### <div align="center">I am a freelance full-stack developer 🚀</div>  
 ### <div align="center">Je suis développeuse full-stack indépendante 🚀</div>  
+
   
 
-- 🔭 Ma principale activité se situe autour de l'écosystème <a href="https://www.dolibarr.org/?lang=fr&l=fr" target="_blank"><img style="margin: 10px" src="https://github.com/Dolibarr/dolibarr-foundation/blob/develop/logo-cliparts/dolibarr_logo.jpg" alt="Dolibarr" height="50" /></a>  
+- 🔭 Ma principale activité se situe autour de l'écosystème <a href="https://www.dolibarr.org/?lang=fr&l=fr" target="_blank"><img style="margin: 10px" src="https://github.com/Dolibarr/dolibarr-foundation/blob/develop/logo-cliparts/dolibarr_logo.jpg" alt="Dolibarr" height="30" /></a>  
   
 - 🌱 Je m'intéresse à la Data et particulièrement autour d'openSearch et elastikSearch
   
@@ -12,7 +15,7 @@
   
 <br/>  
 
-## Mes compétences
+## My skills / Mes compétences
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
