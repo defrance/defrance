@@ -1,17 +1,26 @@
-### <div align="center">Hello and welcome, my name is Charlene Benke  (aka defrance)</div>
-#### <div align="center">Bonjour et bienvenue, je m'appelle Charlène Benke (aka defrance)</div>
-### <div align="center">I am a freelance full-stack developer 🚀</div>  
-### <div align="center">Je suis développeuse full-stack indépendante 🚀</div>  
+<h1 align="center">Charlène Benke - The Patas-Monkey</h1>
+<p align="center">
+  <strong>Freelance Full-Stack Developer</strong><br />
+  <strong>Développeuse Full-Stack Indépendante</strong>
+</p>
 
-  
+<p align="center">
+  <em>Hello and welcome, my name is Charlène Benke (aka defrance)</em><br />
+  <em>Bonjour et bienvenue, je m'appelle Charlène Benke (aka defrance)</em>
+</p>
 
-- 🔭 Ma principale activité se situe autour de l'écosystème <a href="https://www.dolibarr.org/?lang=fr&l=fr" target="_blank"><img style="margin: 10px" src="https://github.com/Dolibarr/dolibarr-foundation/blob/develop/logo-cliparts/dolibarr_logo.jpg" alt="Dolibarr" height="30" /></a>  
-  
-- 🌱 Je m'intéresse à la Data et particulièrement autour d'openSearch et elastikSearch
-  
-- 🎛️ J'aime aussi industrialiser des environnements de développement autour de Docker, GitEA et Jenkins
-  
-- ⚡ Mes langages de programmation favoris sont le Php, jQuery/Bootstrap, React-Native et Python  
+
+- Mon activité principale se situe autour de l'écosystème [Dolibarr](https://www.dolibarr.org/?lang=fr&l=fr).  
+  My main work focuses on the [Dolibarr](https://www.dolibarr.org/?lang=fr&l=fr) ecosystem.
+
+- Je m'intéresse à la data, en particulier à OpenSearch et Elasticsearch.  
+  I am interested in data, especially OpenSearch and Elasticsearch.
+
+- J'aime aussi industrialiser des environnements de développement autour de Docker, Gitea et Jenkins.  
+  I also enjoy industrializing development environments around Docker, Gitea, and Jenkins.
+
+- Mes langages favoris sont PHP, jQuery/Bootstrap, React Native et Python.  
+  My favorite languages are PHP, jQuery/Bootstrap, React Native, and Python.
   
 <br/>  
 
