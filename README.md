@@ -3,11 +3,11 @@
   <strong>Freelance Full-Stack Developer</strong><br />
   <strong>Développeuse Full-Stack Indépendante</strong>
 </p>
-
 <p align="center">
   <em>Hello and welcome, my name is Charlène Benke (aka defrance)</em><br />
   <em>Bonjour et bienvenue, je m'appelle Charlène Benke (aka defrance)</em>
 </p>
+
 
 
 - Mon activité principale se situe autour de l'écosystème [Dolibarr](https://www.dolibarr.org/?lang=fr&l=fr).  
